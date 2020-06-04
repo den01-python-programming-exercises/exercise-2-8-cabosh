@@ -12,7 +12,7 @@ def main():
         elif number < 0:
             amount = amount + 1
         elif number == 0:
-            print(f"Number of numbers: {amount}.")
+            print(f"Number of numbers is: {amount}.")
             break
 
 if __name__ == '__main__':
